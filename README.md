@@ -3,7 +3,7 @@
 **En esta practica verás como una Inteligencia Artifical recrea un video de acuerdo a la palabra que tu le indiques.**
 
 
-![Logo IA NOS]((https://github.com/OrlandoM117/IA-AprendizajeNoSupervisado-EJEMPLO/blob/master/imagenes/aprendizajensia.png) ![Video Dog](https://github.com/OrlandoM117/IA-AprendizajeNoSupervisado-EJEMPLO/blob/master/imagenes/7.png)
+![Logo IA NOS](https://github.com/OrlandoM117/IA-AprendizajeNoSupervisado-EJEMPLO/blob/master/imagenes/aprendizajensia.png) ![Video Dog](https://github.com/OrlandoM117/IA-AprendizajeNoSupervisado-EJEMPLO/blob/master/imagenes/7.png)
 ------------------------------------------
 ## **Requisitos**:
 
